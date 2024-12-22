@@ -13,6 +13,7 @@ Teknik yang Digunakan
 - ARIMA (Autoregressive Integrated Moving Average)
   
 • Cocok untuk data time series yang stasioner.
+
 • Menggunakan komponen autoregressive dan moving average untuk menangkap dinamika temporal.
 
 - LSTM (Long Short-Term Memory)
