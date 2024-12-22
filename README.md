@@ -11,10 +11,8 @@ Teknik yang Digunakan
 1. Model Prediksi
 
 - ARIMA (Autoregressive Integrated Moving Average)
-  
-• Cocok untuk data time series yang stasioner.
 
-• Menggunakan komponen autoregressive dan moving average untuk menangkap dinamika temporal.
+Cocok untuk data time series yang stasioner, dan menggunakan komponen autoregressive dan moving average untuk menangkap dinamika temporal.
 
 - LSTM (Long Short-Term Memory)
   
